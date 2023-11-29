@@ -9,13 +9,13 @@
 4.將各戲劇電影依照類型作區分，喜愛動作片可以點進此分類查看所有動作片
 
 # 使用技術
-1.Vue
-2.Vuex
-3.Vue Router 
-4.HTML
-5.CSS/SCSS
-6.Bootstrap
-7.Swiper
+1.Vue  
+2.Vuex  
+3.Vue Router   
+4.HTML  
+5.CSS/SCSS  
+6.Bootstrap  
+7.Swiper  
 
 ## 電影簡介
 <img width="1262" alt="螢幕擷取畫面 2023-11-22 004003" src="https://github.com/a8692003/movie-db/assets/142565228/c87b45d4-b464-4144-8521-121c19269417">
